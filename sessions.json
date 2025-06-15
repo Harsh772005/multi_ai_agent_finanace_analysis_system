@@ -1,0 +1,883 @@
+{
+  "0f342506-25f4-4257-adee-e4eadffac55d": {
+    "history": [
+      {
+        "role": "user",
+        "content": "what is stock volume?"
+      },
+      {
+        "role": "bot",
+        "content": "Stock volume is the total number of shares of a stock that were traded during a specific period, typically a day. It's a key indicator of market interest and liquidity for that stock.\n"
+      },
+      {
+        "role": "user",
+        "content": "what is AI ??"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "user",
+        "content": "AAPL"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      }
+    ],
+    "currentVisualization": null
+  },
+  "aec9f101-0db8-4e62-b4aa-06cba63422bf": {
+    "history": [
+      {
+        "role": "user",
+        "content": "what is AI ?"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "what is financial data ?"
+      },
+      {
+        "role": "bot",
+        "content": "Financial data is any information relating to the financial performance, position, and activities of an entity. This can include prices, volume, news, filings, and economic indicators.\n"
+      },
+      {
+        "role": "user",
+        "content": "can you visualize the data"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data?"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "user",
+        "content": "visualize the data using table"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data for v."
+      },
+      {
+        "role": "user",
+        "content": "visualize the data"
+      }
+    ],
+    "currentVisualization": {
+      "type": "data",
+      "format": "table",
+      "data": [
+        {
+          "symbol": "V",
+          "price": 774.16,
+          "volume": 1972367
+        },
+        {
+          "symbol": "KO",
+          "price": 932.59,
+          "volume": 4601461
+        },
+        {
+          "symbol": "V",
+          "price": 79.14,
+          "volume": 1010337
+        },
+        {
+          "symbol": "NVDA",
+          "price": 341.29,
+          "volume": 997848
+        },
+        {
+          "symbol": "V",
+          "price": 456.8,
+          "volume": 1800673
+        }
+      ]
+    }
+  },
+  "a1b60b37-81aa-440f-b17a-924456c3975b": {
+    "history": [
+      {
+        "role": "user",
+        "content": "visualize the data"
+      }
+    ],
+    "currentVisualization": null
+  },
+  "999008cd-81bf-49a7-98b3-84f95652073d": {
+    "history": [
+      {
+        "role": "user",
+        "content": "visualize the data"
+      },
+      {
+        "role": "user",
+        "content": "visualize the data"
+      },
+      {
+        "role": "bot",
+        "content": "No response from agent."
+      },
+      {
+        "role": "user",
+        "content": "visualize the data"
+      },
+      {
+        "role": "bot",
+        "content": "No response from agent."
+      }
+    ],
+    "currentVisualization": null
+  },
+  "4f6c984b-8e45-4bad-8efb-f0f674b7b7e9": {
+    "history": [
+      {
+        "role": "user",
+        "content": "visaulize the data"
+      },
+      {
+        "role": "bot",
+        "content": "No response from agent."
+      },
+      {
+        "role": "user",
+        "content": "visualize the data"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "adani"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "hars"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "stcok"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "It seems like you may have a typo and meant \"stock.\" Could you please clarify your question about stock?\n"
+      },
+      {
+        "role": "user",
+        "content": "visualize the chart for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "visuakize teh data for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": ""
+      }
+    ],
+    "currentVisualization": {
+      "type": "data",
+      "format": "table",
+      "data": [
+        {
+          "symbol": "AAPL",
+          "price": 642.21,
+          "volume": 938810
+        },
+        {
+          "symbol": "KO",
+          "price": 106,
+          "volume": 3234007
+        },
+        {
+          "symbol": "AAPL",
+          "price": 958.61,
+          "volume": 377098
+        },
+        {
+          "symbol": "PG",
+          "price": 770.15,
+          "volume": 4452558
+        }
+      ]
+    }
+  },
+  "2791c8b9-3186-42db-8d16-741fda11c485": {
+    "history": [
+      {
+        "role": "user",
+        "content": "visualize the table for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "visualize the data for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "visualize the data"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "visualize the chart for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "What is the capital of France?"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "visualize the data for Microsoft"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      },
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      },
+      {
+        "role": "user",
+        "content": "display a list of financial data\""
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      },
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      },
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      },
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      },
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      }
+    ],
+    "currentVisualization": {
+      "type": "data",
+      "format": "list",
+      "data": [
+        {
+          "symbol": "V",
+          "price": 856.65,
+          "volume": 2471610
+        },
+        {
+          "symbol": "AAPL",
+          "price": 80.94,
+          "volume": 3636353
+        },
+        {
+          "symbol": "TSLA",
+          "price": 793.71,
+          "volume": 1426321
+        }
+      ]
+    }
+  },
+  "e21c8c53-7018-48df-95b5-554963019398": {
+    "history": [
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "Error: Branch condition returned unknown or null destination"
+      }
+    ],
+    "currentVisualization": null
+  },
+  "fbfdc466-c9de-4d80-a98c-16e558261288": {
+    "history": [
+      {
+        "role": "user",
+        "content": "display a list of financial data"
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in list format."
+      },
+      {
+        "role": "user",
+        "content": "create a component"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in none format."
+      },
+      {
+        "role": "user",
+        "content": "create a component"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in none format."
+      },
+      {
+        "role": "user",
+        "content": "visualize the table for AAPL stoc"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in table format."
+      },
+      {
+        "role": "user",
+        "content": "show me a chart of Google financials"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in chart format."
+      },
+      {
+        "role": "user",
+        "content": "display a list of Microsoft data"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in list format."
+      },
+      {
+        "role": "user",
+        "content": "show me data for TSLA"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in none format."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in none format."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in none format."
+      },
+      {
+        "role": "user",
+        "content": "create a component"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "create a component,"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some dat"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      }
+    ],
+    "currentVisualization": null
+  },
+  "2248617e-839f-4da5-a5be-ed8a2678d451": {
+    "history": [
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data using chart"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      }
+    ],
+    "currentVisualization": null
+  },
+  "f36fe35e-db96-418f-b392-6d24d1dc30b2": {
+    "history": [
+      {
+        "role": "user",
+        "content": "show me some data\""
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in none format."
+      }
+    ],
+    "currentVisualization": {
+      "type": "data",
+      "format": "none",
+      "data": [
+        {
+          "symbol": "MA",
+          "price": 681.19,
+          "volume": 2140397
+        },
+        {
+          "symbol": "JPM",
+          "price": 237.12,
+          "volume": 2473530
+        },
+        {
+          "symbol": "GOOGL",
+          "price": 68.71,
+          "volume": 2748695
+        },
+        {
+          "symbol": "PG",
+          "price": 909.38,
+          "volume": 880279
+        },
+        {
+          "symbol": "AAPL",
+          "price": 489.04,
+          "volume": 2403229
+        }
+      ]
+    }
+  },
+  "4e303b5b-9f5e-4707-bfe3-7bebef2b3812": {
+    "history": [
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in none format."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in table format."
+      },
+      {
+        "role": "user",
+        "content": "visualize the table for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in table format."
+      }
+    ],
+    "currentVisualization": {
+      "type": "data",
+      "format": "table",
+      "data": [
+        {
+          "symbol": "V",
+          "price": 676.35,
+          "volume": 3688373
+        },
+        {
+          "symbol": "PG",
+          "price": 730.52,
+          "volume": 2509611
+        },
+        {
+          "symbol": "AAPL",
+          "price": 953.53,
+          "volume": 3201103
+        },
+        {
+          "symbol": "MA",
+          "price": 480.64,
+          "volume": 1756224
+        },
+        {
+          "symbol": "PG",
+          "price": 96.32,
+          "volume": 2928438
+        }
+      ]
+    }
+  },
+  "f39ea00c-7c7f-48ce-86d0-2fbe2cfe9985": {
+    "history": [
+      {
+        "role": "user",
+        "content": "visualize the table for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in table format."
+      },
+      {
+        "role": "user",
+        "content": "show me some data for Google"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in chart format."
+      },
+      {
+        "role": "user",
+        "content": "show me some data"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "bot",
+        "content": "For which companies, sectors, or financial metrics are you interested in seeing data? Please type your query."
+      },
+      {
+        "role": "bot",
+        "content": "Here is the financial data you requested in table format."
+      },
+      {
+        "role": "user",
+        "content": "create a component"
+      },
+      {
+        "role": "bot",
+        "content": "Please specify the format you would like: table, chart, or list."
+      },
+      {
+        "role": "user",
+        "content": "what is the capital of France?"
+      },
+      {
+        "role": "bot",
+        "content": "I apologize, but my current capabilities are focused on financial data visualization and related queries. Please ask me about financial data, companies, or how to display data."
+      }
+    ],
+    "currentVisualization": null
+  },
+  "5ac34c9e-6db0-4bfd-9dfc-b88a79ec8845": {
+    "history": [
+      {
+        "role": "user",
+        "content": "visualize the table for AAPL stock"
+      },
+      {
+        "role": "bot",
+        "content": "Responding to your query: \"visualize the table for AAPL stock\". Here is the financial data in table format."
+      }
+    ],
+    "visualizationHistory": [
+      {
+        "type": "data",
+        "format": "table",
+        "data": [
+          {
+            "symbol": "MA",
+            "price": 431.3,
+            "volume": 1304830
+          },
+          {
+            "symbol": "AMZN",
+            "price": 300.85,
+            "volume": 3021567
+          },
+          {
+            "symbol": "AMZN",
+            "price": 152.57,
+            "volume": 3518471
+          },
+          {
+            "symbol": "MA",
+            "price": 904.1,
+            "volume": 4731585
+          }
+        ],
+        "content": "Responding to your query: \"visualize the table for AAPL stock\". Here is the financial data in table format.",
+        "timestamp": "2025-06-15T16:58:51.961Z"
+      }
+    ]
+  }
+}
